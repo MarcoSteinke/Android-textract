@@ -1,0 +1,8 @@
+node_modules/
+node_modules/*
+./node_modules
+./node_modules/*
+./text_extraction/node_modules
+./text_extraction/node_modules/*
+/text_extraction/node_modules
+/text_extraction/node_modules/*
